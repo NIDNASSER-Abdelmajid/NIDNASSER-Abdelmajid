@@ -64,7 +64,7 @@
   <img height="143em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIDNASSER-Abdelmajid&layout=compact&theme=radical"/>
   <img height="143em" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NIDNASSER-Abdelmajid&theme=radical"/>
   
-  <img height="180em" align="right" src="https://github-profile-trophy.vercel.app/?username=NIDNASSER-Abdelmajid&theme=onedark"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=NIDNASSER-Abdelmajid&theme=onedark"/>
 </a>
 </p>
 <!-- Streak -->
