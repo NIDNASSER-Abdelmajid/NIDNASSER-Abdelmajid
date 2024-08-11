@@ -2,7 +2,7 @@
 <h3 align="center">I am NIDNASSER Abdelmajid (aka. JoyBoy). A Data Engineer on the Rise.</h3>
 <img src="Banner.png">
 <!-- About me -->
-### 📌 About me:
+<h3> 📌 About me: </h3>
 
 🔨 Passionate about building scalable data pipelines and infrastructure.</br>
 📈 Leveraging data to drive strategic business decisions.</br>
