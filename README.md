@@ -1,8 +1,11 @@
 <!-- Title -->
-<h3 align="center">I am NIDNASSER Abdelmajid (aka. JoyBoy). A Data Engineer on the Rise.</h3>
+<h2 align="center">I am NIDNASSER Abdelmajid (aka. JoyBoy). A Data Engineer on the Rise.</h2> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=NIDNASSER-Abdelmajid&color=blue&label=Data+Folks&abbreviated=true&style=flat" alt="JoyBoy" /> </p>
+<!-- Visitors count -->
+
 <img src="Banner.png">
 <!-- About me -->
-<h3> 📌 About me: </h3>
+<h1> 📌 About me: </h1>
 
 🔨 Passionate about building scalable data pipelines and infrastructure.</br>
 📈 Leveraging data to drive strategic business decisions.</br>
@@ -10,30 +13,64 @@
 🤖 Interested in applying machine learning and artificial intelligence to enhance data-driven insights.</br>
 <!--
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+<!-- Side gif -->
 <img align='right' src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
+
+<!-- Tech stack -->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+</br></br>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-000.svg?&amp;logo=Linux&amp;style=for-the-badge&logoColor=white)
+</br></br>
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) 
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
+</br></br>
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
 <!-- Social Media -->
-<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-
-<!-- Tech Stack -->
-
-
-<!-- Visitors count -->
-![Visitors](https://komarev.com/ghpvc/?username=NIDNASSER-Abdelmajid&color=blue&label=Data+Folks&abbreviated=true)
+<p><!--a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a--> 
+<a href="https://www.linkedin.com/in/abdelmajid-nidnasser"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://www.instagram.com//abdelmajid_nid/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<!--a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a--> 
+<!--a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a--> 
+<!--a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a--></p>
 
 <!-- Repo Stats -->
-![JoyBoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NIDNASSER-Abdelmajid&show_icons=true&theme=radical)
-
-<!-- Lang Stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIDNASSER-Abdelmajid&layout=compact&theme=radical)
-
+</br>
+<p align="left" >
+<a href="https://github.com/nidnasser-abdelmajid">
+  <img height="143em" align="left" src="https://github-readme-stats.vercel.app/api?username=NIDNASSER-Abdelmajid&show_icons=true&theme=radical"/>
+  <img height="143em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIDNASSER-Abdelmajid&layout=compact&theme=radical"/>
+  <img height="143em" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NIDNASSER-Abdelmajid&theme=radical"/>
+  
+  <img height="180em" align="right" src="https://github-profile-trophy.vercel.app/?username=NIDNASSER-Abdelmajid&theme=onedark"/>
+</a>
+</p>
 <!-- Streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NIDNASSER-Abdelmajid&theme=radical)](https://git.io/streak-stats)
 
-<!-- Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=NIDNASSER-Abdelmajid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--/br>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -54,51 +91,3 @@
 <h4 align="center">
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-</br>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-
-<!-- HERE -->
-<h2 align="left">Languages and Tools</h2>
-<p>
-<h4>Languages</h4>
-
-<img alt="Python" src="https://img.shields.io/badge/Python-000.svg?logo=python&style=for-the-badge"/> 
-<img alt="R" src="https://img.shields.io/badge/-R-000.svg?logo=r&logoColor=blue&style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/JS-000.svg?style=for-the-badge&logo=javascript"/> 
-<img src="https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=java&logoColor=ed8b00"/> 
-<img alt="C++" src="https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=2a518c"/> 
-<img alt="Bash" src="https://img.shields.io/badge/Bash-000.svg?&logo=gnu-bash&style=for-the-badge"/> 
-<img alt=" Latex" src="https://img.shields.io/badge/latex-000.svg?style=for-the-badge&logo=latex&logoColor=007c7c"/>
-
-<h4>Software Development </h4>
-
-
- <img src="https://img.shields.io/badge/React-000.svg?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/Gatsby-000.svg?style=for-the-badge&logo=gatsby&logoColor=613091"/> <img src="https://img.shields.io/badge/Angular-000.svg?style=for-the-badge&logo=angular&logoColor=DD0031"/> <img src="https://img.shields.io/badge/Tailwind_CSS-000.svg?style=for-the-badge&logo=tailwind-css"/> <img src="https://img.shields.io/badge/Sass-000.svg?style=for-the-badge&logo=sass"/> <img src="https://img.shields.io/badge/figma-000.svg?style=for-the-badge&logo=figma"/> <img src="https://img.shields.io/badge/Adobe%20AI-000.svg?style=for-the-badge&logo=adobe%20illustrator"/>
-<br></br>
-<img src="https://img.shields.io/badge/PHP-000.svg?style=for-the-badge&logo=php"/> <img src="https://img.shields.io/badge/Node.js-000.svg?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/Django-000.svg?style=for-the-badge&logo=django&logoColor=29a071"/> <img src="https://img.shields.io/badge/Spring-000.svg?style=for-the-badge&logo=spring"/> <img src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=mysql"/> <img src="https://img.shields.io/badge/MongoDB-000.svg?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/firebase-000.svg?style=for-the-badge&logo=firebase"/> 
-<br></br>
-<img src="https://img.shields.io/badge/WordPress-000.svg?style=for-the-badge&logo=WordPress"/> <img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud"/> <img src="https://img.shields.io/badge/Digital_Ocean-000?style=for-the-badge&logo=DigitalOcean"/> <img src="https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify&logoColor=23bdae"/> <img src="https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=heroku&logoColor=625d9d"/> <img src="https://img.shields.io/badge/nginx-000.svg?style=for-the-badge&logo=nginx&logoColor=009639"/>
-<br>
-<h4>Data Stuff</h4> 
-
-<img src="https://img.shields.io/badge/pandas-000.svg?style=for-the-badge&amp;logo=pandas&logoColor=150455" alt="Pandas"> <img src="https://img.shields.io/badge/Plotly-000.svg?style=for-the-badge&logo=plotly&logoColor=3f4f75" alt="Plotly"> <img src="https://img.shields.io/badge/opencv-000.svg?style=for-the-badge&logo=opencv" alt="OpenCV"> <img src="https://img.shields.io/badge/-TensorFlow-000.svg?&amp;logo=TensorFlow&amp;style=for-the-badge" alt="TensorFlow"> <img src="https://img.shields.io/badge/Keras-000.svg?style=for-the-badge&amp;logo=Keras&amp;logoColor=red" alt="Keras"> <img src="https://img.shields.io/badge/PyTorch-000.svg?style=for-the-badge&logo=PyTorch" alt="PyTorch">
-<br></br>
- <img src="https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=Databricks" alt="WandB">
-<img src="https://img.shields.io/badge/DVC-000?style=for-the-badge&amp;logo=dataversioncontrol&amp;logoColor=purple" alt="DVC">
-<img src="https://img.shields.io/badge/flask-000.svg?style=for-the-badge&amp;logo=flask" alt="Flask">
-<img src="https://img.shields.io/badge/-Docker-000.svg?&amp;logo=Docker&amp;style=for-the-badge" alt="Docker">
-<img src="https://img.shields.io/badge/-Linux-000.svg?&amp;logo=Linux&amp;style=for-the-badge" alt="Linux">
-
-<br />
-
-
-<h2 align="left">You can find me in</h2>
-<a href="https://linktr.ee/KOBeerose" target="_blank"><img align="center" src="https://img.shields.io/badge/linktree-000?style=for-the-badge&logo=linktree" alt="linktree"></a>
-<a href="https://www.linkedin.com/in/taha-elghabi/" target="_blank"> <img align="center" src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/>
-<a href="https://www.kaggle.com/kobeerose" target="_blank"> <img align="center" src="https://img.shields.io/badge/-kaggle-000.svg?logo=kaggle&logoColor=blue&style=for-the-badge"/>
-<a href="https://www.datacamp.com/profile/tahaelghabi" target="_blank"> <img align="center" src="https://img.shields.io/badge/Datacamp-000?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/>
-<a href="https://dev.to/kobeerose" target="_blank"> <img align="center" src="https://img.shields.io/badge/dev.to-000.svg?style=for-the-badge&logo=dev.to"/>
-<a href="https://stackoverflow.com/users/15874956/kobeerose?tab=profile" target="_blank"> <img align="center" src="https://img.shields.io/badge/Stack Overflow-000.svg?style=for-the-badge&logo=StackOverflow&logoColor"/></a>
