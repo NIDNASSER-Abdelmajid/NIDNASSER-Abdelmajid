@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=NIDNASSER-Abdelmajid&color=blue&label=Data+Folks&abbreviated=true)
 ![JoyBoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NIDNASSER-Abdelmajid&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIDNASSER-Abdelmajid&hide_progress=true)
