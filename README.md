@@ -60,8 +60,8 @@
 </br>
 <p align="center" >
 <a href="https://github.com/nidnasser-abdelmajid">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=NIDNASSER-Abdelmajid&show_icons=true&theme=radical"/>
-  <img height="180em" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NIDNASSER-Abdelmajid&theme=radical"/>
+  <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=NIDNASSER-Abdelmajid&show_icons=true&theme=radical"/>
+  <img height="170em" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NIDNASSER-Abdelmajid&theme=radical"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIDNASSER-Abdelmajid&layout=compact&theme=radical"/>
   <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=NIDNASSER-Abdelmajid&theme=onedark"/>
