@@ -1,6 +1,6 @@
 <!-- Title -->
 <h3 align="center">I am NIDNASSER Abdelmajid (aka. JoyBoy). A Data Engineer on the Rise.</h3>
-
+<img src="Banner.png">
 <!-- About me -->
 ### 📌 About me:
 
