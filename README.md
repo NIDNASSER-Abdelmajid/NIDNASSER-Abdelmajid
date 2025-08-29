@@ -1,5 +1,5 @@
 <!-- Title -->
-<h2 align="center">I am NIDNASSER Abdelmajid (aka. JoyBoy). A R&D Engineer on the Rise.</h2> 
+<h2 align="center">I am NIDNASSER Abdelmajid (aka. JoyBoy). A Research Engineer on the Rise.</h2> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NIDNASSER-Abdelmajid&color=blue&label=Data+Folks&abbreviated=true&style=flat" alt="JoyBoy" /> </p>
 <!-- Visitors count -->
 
